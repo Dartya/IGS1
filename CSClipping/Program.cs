@@ -19,4 +19,5 @@ namespace CSClipping
             Application.Run(new Form1());
         }
     }
+
 }
